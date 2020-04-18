@@ -8,3 +8,5 @@ Items.java contains the Items class that stores each menu item (along with its c
 
 Tree.java creates an implementation of a binary seach tree that stores the Items objects based on the calories/cost ratios.
 
+McDonald'sSortedMenu.txt contains the sample output for the project. However, the output of this project goes to standard output. I first created the project to print to a file, but I decided to change it to print to the standard output.
+
