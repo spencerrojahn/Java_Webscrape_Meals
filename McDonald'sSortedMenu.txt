@@ -1,0 +1,268 @@
+
+*** McDonald's ***
+
+Extra Value Meals: 
+1) Chicken Bacon Clubhouse Crispy, CAL: 790.0, PRICE: $4.89
+2) Bacon Clubhouse Burger, CAL: 740.0, PRICE: $5.09
+3) McRib, CAL: 480.0, PRICE: $3.69
+4) Deluxe Double Quarter Cheese, CAL: 830.0, PRICE: $6.49
+5) Chicken Bacon Clubhouse Grilled, CAL: 610.0, PRICE: $4.89
+6) Double Quarter Pounder with Cheese, CAL: 720.0, PRICE: $5.79
+7) Double Bacon Quarter Pounder Cheese, CAL: 820.0, PRICE: $6.69
+8) Buttermilk Crispy Chicken, CAL: 600.0, PRICE: $5.19
+9) Big Mac, CAL: 540.0, PRICE: $4.69
+10) Deluxe Quarter Cheese, CAL: 620.0, PRICE: $5.39
+11) Bacon Quarter Pounder with Cheese, CAL: 610.0, PRICE: $5.39
+12) Bacon Big Mac, CAL: 640.0, PRICE: $5.69
+13) Quarter Pounder with Cheese, CAL: 510.0, PRICE: $4.69
+14) Spicy Barbecue Chicken Sandwich, CAL: 530.0, PRICE: $5.09
+15) Double Filet-O-Fish, CAL: 540.0, PRICE: $5.39
+16) Filet-O-Fish, CAL: 390.0, PRICE: $4.39
+17) Artisan Grilled Chicken, CAL: 440.0, PRICE: $5.19
+
+All Day Breakfast: 
+1) Sausage Biscuit, CAL: 460.0, PRICE: $1.00
+2) Sausage Biscuit, CAL: 440.0, PRICE: $1.19
+3) Sausage McMuffin, CAL: 400.0, PRICE: $1.19
+4) Sausage Burrito, CAL: 300.0, PRICE: $1.00
+5) Biscuit, CAL: 270.0, PRICE: $0.99
+6) Big Breakfast with Hotcakes & Hash Brown, CAL: 1350.0, PRICE: $4.99
+7) Cinnamon Melts, CAL: 460.0, PRICE: $1.79
+8) 2 pc McGriddles, CAL: 240.0, PRICE: $1.00
+9) Sausage McMuffin & Egg, CAL: 480.0, PRICE: $2.00
+10) Biscuit and Cheese, CAL: 320.0, PRICE: $1.39
+11) Sausage McGriddles, CAL: 430.0, PRICE: $2.00
+12) 3 Hot Cakes & Sausage, CAL: 780.0, PRICE: $3.69
+13) Big Breakfast with Hash Brown, CAL: 750.0, PRICE: $3.79
+14) 3 Hot Cakes, CAL: 590.0, PRICE: $2.99
+15) Sausage, CAL: 190.0, PRICE: $0.99
+16) Fruit & Yogurt Parfait, CAL: 210.0, PRICE: $1.19
+17) Sausage Egg & Cheese Biscuit, CAL: 580.0, PRICE: $3.59
+18) Sausage Egg & Cheese McGriddles, CAL: 550.0, PRICE: $3.69
+19) Oatmeal, CAL: 310.0, PRICE: $2.29
+20) Bacon, Egg & Cheese Biscuit, CAL: 450.0, PRICE: $3.39
+21) Fruit & Maple Oatmeal, CAL: 290.0, PRICE: $2.29
+22) Hash Brown, CAL: 150.0, PRICE: $1.19
+23) Bacon Egg & Cheese McGriddles, CAL: 420.0, PRICE: $3.69
+24) Oatmeal without Brown Sugar, CAL: 260.0, PRICE: $2.29
+25) Egg McMuffin, CAL: 300.0, PRICE: $3.59
+26) Egg White Delight, CAL: 250.0, PRICE: $3.29
+
+McNuggets & Tenders: 
+1) 40pc McNuggets, CAL: 1880.0, PRICE: $8.99
+2) 20pc McNuggets, CAL: 890.0, PRICE: $5.59
+3) 10pc Spicy BBQ Glazed Tenders, CAL: 1470.0, PRICE: $10.69
+4) 6pc Spicy BBQ Glazed Tenders, CAL: 880.0, PRICE: $6.49
+5) 6pc Mcnuggets, CAL: 270.0, PRICE: $2.00
+6) 4pc Spicy BBQ Glazed Tenders, CAL: 590.0, PRICE: $4.49
+7) 6pc Buttermilk Crispy Tenders, CAL: 720.0, PRICE: $5.79
+8) 10pc Buttermilk Crispy Tenders, CAL: 1200.0, PRICE: $9.69
+9) 4pc Buttermilk Crispy Tenders, CAL: 480.0, PRICE: $3.99
+10) 10pc Mcnuggets, CAL: 440.0, PRICE: $4.59
+11) 4pc Mcnuggets, CAL: 180.0, PRICE: $1.99
+
+Everyday Value: 
+1) Chocolate Chip Cookie, CAL: 160.0, PRICE: $0.41
+2) Daily Double, CAL: 700.0, PRICE: $1.99
+3) BBQ Ranch Burger, CAL: 340.0, PRICE: $1.19
+4) Double Hamburger, CAL: 340.0, PRICE: $1.29
+5) Two Cheeseburgers, CAL: 600.0, PRICE: $2.28
+6) Hamburger, CAL: 250.0, PRICE: $0.99
+7) Grilled Onion Cheddar Burger, CAL: 300.0, PRICE: $1.19
+8) Cheeseburger, CAL: 300.0, PRICE: $1.19
+9) Hot N Spicy McChicken, CAL: 400.0, PRICE: $1.59
+10) McChicken, CAL: 400.0, PRICE: $1.59
+11) Double Cheeseburger, CAL: 440.0, PRICE: $1.89
+12) McDouble, CAL: 380.0, PRICE: $1.69
+13) Bacon McDouble, CAL: 440.0, PRICE: $2.00
+14) Jalapeno Double, CAL: 430.0, PRICE: $2.00
+15) Bacon Mcdouble, CAL: 460.0, PRICE: $2.19
+16) Triple Cheeseburger, CAL: 530.0, PRICE: $3.19
+17) Classic Chicken Sandwich, CAL: 510.0, PRICE: $3.19
+18) 20pc McNuggets, CAL: 890.0, PRICE: $5.59
+19) Ranch Snack Wrap - Chicken Tender, CAL: 360.0, PRICE: $2.29
+20) Parfait, CAL: 150.0, PRICE: $1.00
+21) Cone, CAL: 150.0, PRICE: $1.00
+22) 6pc McNuggets, CAL: 270.0, PRICE: $2.00
+23) Ranch Snack Wrap - Grilled, CAL: 300.0, PRICE: $2.29
+24) 2pc Buttermilk Crispy Chicken Tenders, CAL: 250.0, PRICE: $2.00
+25) 4pc Buttermilk Crispy Tenders, CAL: 480.0, PRICE: $3.99
+
+Fries & Sides: 
+1) Fries L, CAL: 490.0, PRICE: $2.99
+2) Fries M, CAL: 320.0, PRICE: $2.39
+3) Fries S, CAL: 220.0, PRICE: $1.69
+4) Hash Brown, CAL: 150.0, PRICE: $1.19
+5) Side Salad, CAL: 15.0, PRICE: $2.39
+
+Sweets & Treats: 
+1) Chocolate Chip Cookie 1pc, CAL: 170.0, PRICE: $0.39
+2) Chocolate Chip Cookies 3pc, CAL: 510.0, PRICE: $1.19
+3) Strawberry Crème Pie 2pc, CAL: 580.0, PRICE: $1.59
+4) Apple Pies 2pc, CAL: 500.0, PRICE: $1.39
+5) McFlurry (Reese's Peanut Butter Cup) M, CAL: 810.0, PRICE: $2.39
+6) Strawberry Crème Pie, CAL: 290.0, PRICE: $0.89
+7) Mccafe Strawberry Shake L, CAL: 850.0, PRICE: $2.99
+8) Mccafe Chocolate Shake L, CAL: 850.0, PRICE: $2.99
+9) Shamrock Mccafe Shake L, CAL: 820.0, PRICE: $2.99
+10) Mccafe Vanilla Shake L, CAL: 820.0, PRICE: $2.99
+11) Mccafe Chocolate Shake M, CAL: 700.0, PRICE: $2.59
+12) Mccafe Strawberry Shake M, CAL: 690.0, PRICE: $2.59
+13) Mccafe Chocolate Shake S, CAL: 560.0, PRICE: $2.19
+14) Shamrock Mccafe Shake M, CAL: 660.0, PRICE: $2.59
+15) Mccafe Vanilla Shake M, CAL: 660.0, PRICE: $2.59
+16) Mccafe Strawberry Shake S, CAL: 550.0, PRICE: $2.19
+17) Pumpkin Pie, CAL: 250.0, PRICE: $1.00
+18) Apple Pie, CAL: 250.0, PRICE: $1.00
+19) Shamrock Mccafe Shake S, CAL: 530.0, PRICE: $2.19
+20) Mccafe Vanilla Shake S, CAL: 530.0, PRICE: $2.19
+21) McFlurry (M&M) M, CAL: 640.0, PRICE: $2.69
+22) McFlurry (Reese's Peanut Butter Cup) - Snack S, CAL: 410.0, PRICE: $1.79
+23) McFlurry (M&M) - Snack S, CAL: 420.0, PRICE: $1.99
+24) McFlurry (Snickerdoodle) M, CAL: 530.0, PRICE: $2.69
+25) McFlurry (OREO) M, CAL: 510.0, PRICE: $2.69
+26) Dipped Cone, CAL: 270.0, PRICE: $1.49
+27) Sundae - Caramel, CAL: 340.0, PRICE: $1.89
+28) McFlurry (Snickerdoodle) - Snack S, CAL: 350.0, PRICE: $1.99
+29) Sundae - Hot Fudge, CAL: 330.0, PRICE: $1.89
+30) McFlurry (OREO) -Snack S, CAL: 340.0, PRICE: $1.99
+31) Cone, CAL: 200.0, PRICE: $1.19
+32) Sundae - Strawberry, CAL: 280.0, PRICE: $1.89
+33) Sundae - Plain, CAL: 210.0, PRICE: $1.89
+
+Salads & More: 
+1) Chicken Snack Wrap - Crispy, CAL: 410.0, PRICE: $2.09
+2) Chicken Snack Wrap - Grilled, CAL: 290.0, PRICE: $2.09
+3) Southwest Salad - Crispy Chicken, CAL: 500.0, PRICE: $5.29
+4) Bacon Ranch Salad - Crispy Chicken, CAL: 470.0, PRICE: $5.29
+5) Southwest Salad - Grilled Chicken, CAL: 340.0, PRICE: $5.29
+6) Bacon Ranch Salad - Grilled Chicken, CAL: 310.0, PRICE: $5.29
+7) Bacon Ranch Salad, CAL: 180.0, PRICE: $4.29
+8) Side Salad, CAL: 15.0, PRICE: $2.39
+
+Entire Menu: 
+1) Sausage Biscuit, CAL: 460.0, PRICE: $1.00
+2) Chocolate Chip Cookie 1pc, CAL: 170.0, PRICE: $0.39
+3) Chocolate Chip Cookies 3pc, CAL: 510.0, PRICE: $1.19
+4) Chocolate Chip Cookie, CAL: 160.0, PRICE: $0.41
+5) Sausage Biscuit, CAL: 440.0, PRICE: $1.19
+6) Strawberry Crème Pie 2pc, CAL: 580.0, PRICE: $1.59
+7) Apple Pies 2pc, CAL: 500.0, PRICE: $1.39
+8) Daily Double, CAL: 700.0, PRICE: $1.99
+9) McFlurry (Reese's Peanut Butter Cup) M, CAL: 810.0, PRICE: $2.39
+10) Sausage McMuffin, CAL: 400.0, PRICE: $1.19
+11) Strawberry Crème Pie, CAL: 290.0, PRICE: $0.89
+12) Sausage Burrito, CAL: 300.0, PRICE: $1.00
+13) BBQ Ranch Burger, CAL: 340.0, PRICE: $1.19
+14) Mccafe Strawberry Shake L, CAL: 850.0, PRICE: $2.99
+15) Mccafe Chocolate Shake L, CAL: 850.0, PRICE: $2.99
+16) Shamrock Mccafe Shake L, CAL: 820.0, PRICE: $2.99
+17) Mccafe Vanilla Shake L, CAL: 820.0, PRICE: $2.99
+18) Biscuit, CAL: 270.0, PRICE: $0.99
+19) Big Breakfast with Hotcakes & Hash Brown, CAL: 1350.0, PRICE: $4.99
+20) Mccafe Chocolate Shake M, CAL: 700.0, PRICE: $2.59
+21) Mccafe Strawberry Shake M, CAL: 690.0, PRICE: $2.59
+22) Double Hamburger, CAL: 340.0, PRICE: $1.29
+23) Two Cheeseburgers, CAL: 600.0, PRICE: $2.28
+24) Cinnamon Melts, CAL: 460.0, PRICE: $1.79
+25) Mccafe Chocolate Shake S, CAL: 560.0, PRICE: $2.19
+26) Shamrock Mccafe Shake M, CAL: 660.0, PRICE: $2.59
+27) Mccafe Vanilla Shake M, CAL: 660.0, PRICE: $2.59
+28) Hamburger, CAL: 250.0, PRICE: $0.99
+29) Grilled Onion Cheddar Burger, CAL: 300.0, PRICE: $1.19
+30) Cheeseburger, CAL: 300.0, PRICE: $1.19
+31) Hot N Spicy McChicken, CAL: 400.0, PRICE: $1.59
+32) McChicken, CAL: 400.0, PRICE: $1.59
+33) Mccafe Strawberry Shake S, CAL: 550.0, PRICE: $2.19
+34) Pumpkin Pie, CAL: 250.0, PRICE: $1.00
+35) Apple Pie, CAL: 250.0, PRICE: $1.00
+36) Shamrock Mccafe Shake S, CAL: 530.0, PRICE: $2.19
+37) Mccafe Vanilla Shake S, CAL: 530.0, PRICE: $2.19
+38) 2 pc McGriddles, CAL: 240.0, PRICE: $1.00
+39) Sausage McMuffin & Egg, CAL: 480.0, PRICE: $2.00
+40) McFlurry (M&M) M, CAL: 640.0, PRICE: $2.69
+41) Double Cheeseburger, CAL: 440.0, PRICE: $1.89
+42) Biscuit and Cheese, CAL: 320.0, PRICE: $1.39
+43) McFlurry (Reese's Peanut Butter Cup) - Snack S, CAL: 410.0, PRICE: $1.79
+44) McDouble, CAL: 380.0, PRICE: $1.69
+45) Bacon McDouble, CAL: 440.0, PRICE: $2.00
+46) Jalapeno Double, CAL: 430.0, PRICE: $2.00
+47) Sausage McGriddles, CAL: 430.0, PRICE: $2.00
+48) 3 Hot Cakes & Sausage, CAL: 780.0, PRICE: $3.69
+49) McFlurry (M&M) - Snack S, CAL: 420.0, PRICE: $1.99
+50) Bacon Mcdouble, CAL: 460.0, PRICE: $2.19
+51) 40pc McNuggets, CAL: 1880.0, PRICE: $8.99
+52) Big Breakfast with Hash Brown, CAL: 750.0, PRICE: $3.79
+53) 3 Hot Cakes, CAL: 590.0, PRICE: $2.99
+54) McFlurry (Snickerdoodle) M, CAL: 530.0, PRICE: $2.69
+55) Chicken Snack Wrap - Crispy, CAL: 410.0, PRICE: $2.09
+56) Sausage, CAL: 190.0, PRICE: $0.99
+57) McFlurry (OREO) M, CAL: 510.0, PRICE: $2.69
+58) Dipped Cone, CAL: 270.0, PRICE: $1.49
+59) Sundae - Caramel, CAL: 340.0, PRICE: $1.89
+60) Fruit & Yogurt Parfait, CAL: 210.0, PRICE: $1.19
+61) McFlurry (Snickerdoodle) - Snack S, CAL: 350.0, PRICE: $1.99
+62) Sundae - Hot Fudge, CAL: 330.0, PRICE: $1.89
+63) McFlurry (OREO) -Snack S, CAL: 340.0, PRICE: $1.99
+64) Cone, CAL: 200.0, PRICE: $1.19
+65) Triple Cheeseburger, CAL: 530.0, PRICE: $3.19
+66) Fries L, CAL: 490.0, PRICE: $2.99
+67) Sausage Egg & Cheese Biscuit, CAL: 580.0, PRICE: $3.59
+68) Chicken Bacon Clubhouse Crispy, CAL: 790.0, PRICE: $4.89
+69) Classic Chicken Sandwich, CAL: 510.0, PRICE: $3.19
+70) 20pc McNuggets, CAL: 890.0, PRICE: $5.59
+71) 20pc McNuggets, CAL: 890.0, PRICE: $5.59
+72) Ranch Snack Wrap - Chicken Tender, CAL: 360.0, PRICE: $2.29
+73) Parfait, CAL: 150.0, PRICE: $1.00
+74) Cone, CAL: 150.0, PRICE: $1.00
+75) Sausage Egg & Cheese McGriddles, CAL: 550.0, PRICE: $3.69
+76) Sundae - Strawberry, CAL: 280.0, PRICE: $1.89
+77) Bacon Clubhouse Burger, CAL: 740.0, PRICE: $5.09
+78) Chicken Snack Wrap - Grilled, CAL: 290.0, PRICE: $2.09
+79) 10pc Spicy BBQ Glazed Tenders, CAL: 1470.0, PRICE: $10.69
+80) 6pc Spicy BBQ Glazed Tenders, CAL: 880.0, PRICE: $6.49
+81) Oatmeal, CAL: 310.0, PRICE: $2.29
+82) 6pc McNuggets, CAL: 270.0, PRICE: $2.00
+83) 6pc Mcnuggets, CAL: 270.0, PRICE: $2.00
+84) Fries M, CAL: 320.0, PRICE: $2.39
+85) Bacon, Egg & Cheese Biscuit, CAL: 450.0, PRICE: $3.39
+86) 4pc Spicy BBQ Glazed Tenders, CAL: 590.0, PRICE: $4.49
+87) Ranch Snack Wrap - Grilled, CAL: 300.0, PRICE: $2.29
+88) Fries S, CAL: 220.0, PRICE: $1.69
+89) McRib, CAL: 480.0, PRICE: $3.69
+90) Deluxe Double Quarter Cheese, CAL: 830.0, PRICE: $6.49
+91) Fruit & Maple Oatmeal, CAL: 290.0, PRICE: $2.29
+92) Hash Brown, CAL: 150.0, PRICE: $1.19
+93) Hash Brown, CAL: 150.0, PRICE: $1.19
+94) 2pc Buttermilk Crispy Chicken Tenders, CAL: 250.0, PRICE: $2.00
+95) Chicken Bacon Clubhouse Grilled, CAL: 610.0, PRICE: $4.89
+96) 6pc Buttermilk Crispy Tenders, CAL: 720.0, PRICE: $5.79
+97) Double Quarter Pounder with Cheese, CAL: 720.0, PRICE: $5.79
+98) 10pc Buttermilk Crispy Tenders, CAL: 1200.0, PRICE: $9.69
+99) Double Bacon Quarter Pounder Cheese, CAL: 820.0, PRICE: $6.69
+100) 4pc Buttermilk Crispy Tenders, CAL: 480.0, PRICE: $3.99
+101) 4pc Buttermilk Crispy Tenders, CAL: 480.0, PRICE: $3.99
+102) Buttermilk Crispy Chicken, CAL: 600.0, PRICE: $5.19
+103) Big Mac, CAL: 540.0, PRICE: $4.69
+104) Deluxe Quarter Cheese, CAL: 620.0, PRICE: $5.39
+105) Bacon Egg & Cheese McGriddles, CAL: 420.0, PRICE: $3.69
+106) Oatmeal without Brown Sugar, CAL: 260.0, PRICE: $2.29
+107) Bacon Quarter Pounder with Cheese, CAL: 610.0, PRICE: $5.39
+108) Bacon Big Mac, CAL: 640.0, PRICE: $5.69
+109) Sundae - Plain, CAL: 210.0, PRICE: $1.89
+110) Quarter Pounder with Cheese, CAL: 510.0, PRICE: $4.69
+111) Spicy Barbecue Chicken Sandwich, CAL: 530.0, PRICE: $5.09
+112) Double Filet-O-Fish, CAL: 540.0, PRICE: $5.39
+113) 10pc Mcnuggets, CAL: 440.0, PRICE: $4.59
+114) Southwest Salad - Crispy Chicken, CAL: 500.0, PRICE: $5.29
+115) 4pc Mcnuggets, CAL: 180.0, PRICE: $1.99
+116) Bacon Ranch Salad - Crispy Chicken, CAL: 470.0, PRICE: $5.29
+117) Filet-O-Fish, CAL: 390.0, PRICE: $4.39
+118) Artisan Grilled Chicken, CAL: 440.0, PRICE: $5.19
+119) Egg McMuffin, CAL: 300.0, PRICE: $3.59
+120) Egg White Delight, CAL: 250.0, PRICE: $3.29
+121) Southwest Salad - Grilled Chicken, CAL: 340.0, PRICE: $5.29
+122) Bacon Ranch Salad - Grilled Chicken, CAL: 310.0, PRICE: $5.29
+123) Bacon Ranch Salad, CAL: 180.0, PRICE: $4.29
+124) Side Salad, CAL: 15.0, PRICE: $2.39
+125) Side Salad, CAL: 15.0, PRICE: $2.39
